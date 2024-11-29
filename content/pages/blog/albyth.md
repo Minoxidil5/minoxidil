@@ -92,7 +92,8 @@ seo:
   metaTitle: lorem-ipsum
   metaDescription: lorem-ipsum
   addTitleSuffix: false
-  metaTags: []
+  metaTags:
+    - type: MetaTag
 colors: bg-light-fg-dark
 styles:
   self:

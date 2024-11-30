@@ -10,7 +10,7 @@ excerpt: >-
   dolor quas ad odit ipsum qui quia eius.
 featuredImage:
   url: /images/Essengen_F.jpg
-  altText: Thumbnail
+  altText: topical finasteride without minoxidil uk
   type: ImageBlock
   styles:
     self:

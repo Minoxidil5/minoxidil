@@ -61,6 +61,7 @@ seo:
     for gray hair. For now but how it can help.
   addTitleSuffix: false
   metaTags: []
+  socialImage: /images/Minoxidil And Hair Greying.jpg
 colors: bg-light-fg-dark
 styles:
   self:

@@ -82,8 +82,5 @@ Don’t let hair loss hold you back. With topical finasteride without minoxidil,
 
 [Minoxidil And Hair Greying](https://minoxidil5.netlify.app/blog/minoxidil-and-hair-greying/)
 
-[
-
-
-](https://minoxidil5.netlify.app/blog/minoxidil-and-hair-greying/)
+[المينوكسيديل و الفيناسترايد](https://ouhida.com/%D8%A7%D9%84%D9%85%D9%8A%D9%86%D9%88%D9%83%D8%B3%D9%8A%D8%AF%D9%8A%D9%84-%D9%88-%D8%A7%D9%84%D9%81%D9%8A%D9%86%D8%A7%D8%B3%D8%AA%D9%8A%D8%B1%D9%8A%D8%AF/)
 

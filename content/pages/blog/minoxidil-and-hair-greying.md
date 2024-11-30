@@ -56,7 +56,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: lorem-ipsum
-  metaDescription: lorem-ipsum
+  metaDescription: Minoxidil And Hair Greying
   addTitleSuffix: false
   metaTags: []
 colors: bg-light-fg-dark

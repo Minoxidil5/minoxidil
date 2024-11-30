@@ -8,7 +8,7 @@ topSections:
       text: Featured Post
       color: text-dark
       type: TitleBlock
-    subtitle: This is the subtitle
+    subtitle: Last Posts
     posts:
       - content/pages/blog/minoxidil-and-hair-greying.md
     showThumbnail: true

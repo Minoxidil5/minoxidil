@@ -4,10 +4,7 @@ title: >-
   Minoxidil Side Effects
 slug: topical finasteride without minoxidil uk
 date: '2021-08-25'
-excerpt: >-
-  Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
-  facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
-  dolor quas ad odit ipsum qui quia eius.
+excerpt: topical finasteride without minoxidil uk
 featuredImage:
   url: /images/Essengen_F.jpg
   altText: topical finasteride without minoxidil uk

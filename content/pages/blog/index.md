@@ -8,14 +8,14 @@ topSections:
       text: Featured Post
       color: text-dark
       type: TitleBlock
-    subtitle: This is the subtitle
+    subtitle: Last Posts
     posts:
-      - content/pages/blog/top-ten-lessons-we-learned.md
+      - content/pages/blog/minoxidil-and-hair-greying.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
     showAuthor: true
-    variant: big-list
+    variant: three-col-grid
     colors: bg-light-fg-dark
     styles:
       self:

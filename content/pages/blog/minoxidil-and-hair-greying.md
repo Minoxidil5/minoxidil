@@ -55,7 +55,7 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
+  metaTitle: is not a proven or reliable treatment for gray hair. For now
   metaDescription: >-
     Minoxidil And Hair Greying, minoxidil is not a proven or reliable treatment
     for gray hair. For now but how it can help.

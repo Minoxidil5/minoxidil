@@ -16,7 +16,7 @@ featuredImage:
       borderRadius: medium
 isFeatured: true
 seo:
-  metaTitle: topical finasteride without minoxidil uk
+  metaTitle: Topical Finasteride Without Minoxidil in the UK
   metaDescription: You can add the excerpt and main keywords of your blog post here.
   socialImage: /images/abstract-feature2.svg
   type: Seo

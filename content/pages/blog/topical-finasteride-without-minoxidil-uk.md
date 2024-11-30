@@ -17,7 +17,9 @@ featuredImage:
 isFeatured: true
 seo:
   metaTitle: Topical Finasteride Without Minoxidil in the UK
-  metaDescription: You can add the excerpt and main keywords of your blog post here.
+  metaDescription: >-
+    the best Topical Finasteride Without Minoxidil in the UK to stop hair loss
+    and avoid minoxidil side effects
   socialImage: /images/Essengen_F.jpg
   type: Seo
 colors: bg-light-fg-dark

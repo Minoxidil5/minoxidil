@@ -9,7 +9,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/Minoxidil And Hair Greying.jpg
-  altText: Thumbnail
+  altText: Minoxidil And Hair Greying
   elementId: ''
   styles:
     self:

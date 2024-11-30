@@ -1,5 +1,7 @@
 ---
-title: The Top Ten Lessons We’ve Learned Since Our Initial Launch
+title: >-
+  Topical Finasteride Without Minoxidil in the UK: TO Stop Hair Loss Without The
+  Minoxidil Side Effects
 slug: topical finasteride without minoxidil uk
 date: '2021-08-25'
 excerpt: >-

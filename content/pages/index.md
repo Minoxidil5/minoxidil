@@ -15,7 +15,7 @@ sections:
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
-      text: Featured posts
+      text: Hair Care and Gray Hair products
       color: text-dark
       styles:
         self:

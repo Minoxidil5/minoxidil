@@ -20,7 +20,9 @@ sections:
       styles:
         self:
           textAlign: center
-    posts: []
+    posts:
+      - content/pages/blog/minoxidil-and-hair-greying.md
+      - content/pages/blog/topical-finasteride-without-minoxidil-uk.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
